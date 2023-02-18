@@ -1,7 +1,10 @@
 [package]
 name = "buttboost"
-version = "0.0.0"
+description = "Use system audio to control your buttplug"
+version = "0.0.1-alpha.0"
 edition = "2021"
+license = "BSD-2-Clause"
+repository = "https://github.com/heldom1proton/buttboost"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
