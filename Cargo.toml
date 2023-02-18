@@ -9,3 +9,6 @@ repository = "https://github.com/heldom1proton/buttboost"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+buttplug = "7.0.1"
+tokio = "1.25.0"
+anyhow = "1.0.69"
